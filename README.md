@@ -1,3 +1,35 @@
+        TODO:   
+
+        List of champions
+            Champion details
+        List of Skins
+            Skin Details
+        List of Users
+
+        User Details
+            Summoner name
+            Owned champions
+            Owned skins
+
+        Login Page
+        Validation
+
+        Admin add champions
+        Admin add skins
+
+        Admin edit/delete champion
+        Admin edit/delete skins
+
+        Nice to have: Admin edit Users
+        
+        User add owned champions
+        User add owned skins
+        
+        User edit/remove owned campions
+        User edit/remove owned skins
+        
+        nice to have: per Champion/Skin Comment section+upvotes/downvotes/ rating 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
