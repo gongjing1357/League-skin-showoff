@@ -21,3 +21,8 @@ Route::get('hello', function () {
     //return 'HELLO!';
     return View::make('world');
 });
+
+Route::get('champions', function () {
+    return view('champions');
+});
+
